@@ -54,3 +54,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'devise'
 gem 'devise-bootstrap-views', '~> 1.1'
+gem 'haml', '~> 5.1', '>= 5.1.2'
